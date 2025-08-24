@@ -51,5 +51,9 @@ Task 4: Movie Rental Analysis System (Redshift/PostgreSQL)
 
 
 Author
+
+
 Name: Vivek Singh
+
+
 certification Submission: Aug 2025
