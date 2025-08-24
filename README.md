@@ -21,10 +21,14 @@ Task 2: Employee Payroll Management System (PostgreSQL)
 
 • Files: Task2.docx with all query code and output screenshots.
 
+
+
 Task 3: Online Store Order Management System (PostgreSQL)
+
+
 
 • Created and managed customer, product, and order data with proper foreign key relationships.
 
 • Performed queries for order tracking, stock analysis, revenue calculation, and customer behavior.
 
-• Files: Task3.docx with all queries and output screenshots
+• Files: Task3.docx with all queries and output screenshots.
