@@ -32,3 +32,24 @@ Task 3: Online Store Order Management System (PostgreSQL)
 • Performed queries for order tracking, stock analysis, revenue calculation, and customer behavior.
 
 • Files: Task3.docx with all queries and output screenshots.
+
+
+
+Task 4: Movie Rental Analysis System (Redshift/PostgreSQL)
+
+
+
+• Designed and analyzed movie rental data using advanced OLAP operations like Drill Down, Rollup, Cube, Slice, and Dice.
+
+• Performed multi-dimensional data summarization and filtering to gain rental insights by genre, date, and customer.
+
+• Files: Task4.docx with all query scripts and output screenshots.
+
+
+
+
+
+
+Author
+Name: Vivek Singh
+certification Submission: Aug 2025
